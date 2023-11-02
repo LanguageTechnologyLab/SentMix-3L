@@ -56,4 +56,14 @@ We introduce **SentMix-3L**, a novel three-language code-mixed test dataset with
 
 ## 📝 Citation
 
-**To Cite our paper**:
+If you utilize this dataset, kindly cite our paper.
+
+```bibtex
+@article{raihan2023mixed,
+  title={Mixed-Distil-BERT: Code-mixed Language Modeling for Bangla, English, and Hindi},
+  author={Raihan, Md Nishat and Goswami, Dhiman and Mahmud, Antara},
+  journal={arXiv preprint arXiv:2309.10272},
+  year={2023}
+}
+```
+
