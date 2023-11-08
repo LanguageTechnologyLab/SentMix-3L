@@ -2,6 +2,8 @@
 
 **Publication**: *The First Workshop in South East Asian Language Processing Workshop under AACL-2023.*
 
+**Read in [arXiv](arxiv.org/pdf/2310.18023.pdf)** 
+
 ---
 
 ## 📖 Introduction
