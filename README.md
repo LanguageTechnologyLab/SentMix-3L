@@ -6,6 +6,20 @@
 
 ---
 
+## 📝 Citation
+
+If you utilize this dataset, kindly cite our paper.
+
+```bibtex
+@article{raihan2023sentmix,
+  title={SentMix-3L: A Bangla-English-Hindi Code-Mixed Dataset for Sentiment Analysis},
+  author={Raihan, Md Nishat and Goswami, Dhiman and Mahmud, Antara and Anstasopoulos, Antonios and Zampieri, Marcos},
+  journal={arXiv preprint arXiv:2310.18023},
+  year={2023}
+}
+```
+---
+
 ## 📖 Introduction
 
 Code-mixing is a well-studied linguistic phenomenon when two or more languages are mixed in text or speech. Several datasets have been built with the goal of training computational models for code-mixing. Although it is very common to observe code-mixing with multiple languages, most datasets available contain code-mixed between only two languages. In this paper, we introduce **SentMix-3L**, a novel dataset for sentiment analysis containing code-mixed data between three languages: Bangla, English, and Hindi. We show that zero-shot prompting with GPT-3.5 outperforms all transformer-based models on SentMix-3L.
@@ -55,16 +69,4 @@ We introduce **SentMix-3L**, a novel three-language code-mixed test dataset with
 *Weighted F-1 score for different models: training on synthetic, testing on natural data.*
 
 ---
-
-## 📝 Citation
-
-If you utilize this dataset, kindly cite our paper.
-
-```bibtex
-@article{raihan2023sentmix,
-  title={SentMix-3L: A Bangla-English-Hindi Code-Mixed Dataset for Sentiment Analysis},
-  author={Raihan, Md Nishat and Goswami, Dhiman and Mahmud, Antara and Anstasopoulos, Antonios and Zampieri, Marcos},
-  journal={arXiv preprint arXiv:2310.18023},
-  year={2023}
-}
 
